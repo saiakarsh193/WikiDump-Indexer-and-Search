@@ -21,6 +21,10 @@ You can download the dumps from the following links,
 - [Big dump (compressed size: 18GB)](https://dumps.wikimedia.org/enwiki/20210720/enwiki-20210720-pages-articles-multistream.xml.bz2)  
 
 To understand the concepts and do your own version follow this link, [Standford Information Retrieval Course](https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)  
+To install the python dependencies, run the command  
+```bash
+pip install -r requirements.txt
+```  
 
 You can start the indexer using,
 ```bash
